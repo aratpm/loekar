@@ -1,0 +1,13 @@
+{ "title": "Loe Kar [v2.0.0]",
+
+"message": "Hello folks, I just added some new features in this app. So, Pls update.\n - added new websites. ",
+
+"download": "", 
+
+"playstore": "com.myanmar.loekar",
+
+"uninstall": false, 
+
+"what": { "model": [], "version": [], "all": true }, 
+
+"versionName": "1.0.0", "versionCode": 1, "force": true }
